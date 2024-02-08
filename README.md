@@ -21,4 +21,8 @@ Recommendation systems aim to automatically suggest to users items that are rela
   ![My Image](Images/predict4.PNG)
   + Tests & results:
   ![My Image](Images/tests-and-results.PNG)
-    
+
+    ## Contributors
+
+- [@RB-Younes](https://github.com/RB-Younes)
+- [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
